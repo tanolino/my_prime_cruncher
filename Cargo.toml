@@ -1,5 +1,5 @@
 [package]
-name = "simple_web_api"
+name = "my_prime_crusher"
 version = "0.1.0"
 authors = ["Nathanael"]
 edition = "2018"
